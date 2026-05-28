@@ -3,507 +3,507 @@
     "primaquine": {
       "risk": "high",
       "notes": "Antimalarial — #1 most documented G6PD trigger",
-      "aliases": ["primaquine phosphate", "primaquine sulfate"]
+      "aliases": ["primaquine phosphate", "primaquine sulfate", "伯氨喹", "伯氨喹啉", "伯喹"]
     },
     "dapsone": {
       "risk": "high",
       "notes": "Antimycobacterial / skin — causes severe hemolysis",
-      "aliases": ["diaphenylsulfone", "aczone"]
+      "aliases": ["diaphenylsulfone", "aczone", "氨苯砜", "砜氨"]
     },
     "nitrofurantoin": {
       "risk": "high",
       "notes": "UTI antibiotic — avoid in G6PD",
-      "aliases": ["macrobid", "macrodantin", "furadantin"]
+      "aliases": ["macrobid", "macrodantin", "furadantin", "呋喃妥因", "呋喃坦丁"]
     },
     "nitrofural": {
       "risk": "high",
       "notes": "Topical antibiotic",
-      "aliases": ["nitrofurazone"]
+      "aliases": ["nitrofurazone", "呋喃西林"]
     },
     "methylene blue": {
       "risk": "high",
       "notes": "Dye and antidote — causes severe oxidative hemolysis",
-      "aliases": ["methylthioninium chloride", "methylene blue chloride"]
+      "aliases": ["methylthioninium chloride", "methylene blue chloride", "亚甲蓝", "美蓝", "次甲藍"]
     },
     "rasburicase": {
       "risk": "high",
       "notes": "Urate oxidase — G6PD test mandatory before use",
-      "aliases": ["elitek", "fasturtec"]
+      "aliases": ["elitek", "fasturtec", "拉布立酶"]
     },
     "tafenoquine": {
       "risk": "high",
       "notes": "Newer antimalarial — FDA warns G6PD test required",
-      "aliases": ["krintafel", "kozenis"]
+      "aliases": ["krintafel", "kozenis", "他非诺喹"]
     },
     "chloroquine": {
       "risk": "high",
       "notes": "Antimalarial",
-      "aliases": ["chloroquine phosphate", "aralen"]
+      "aliases": ["chloroquine phosphate", "aralen", "氯喹", "磷酸氯喹"]
     },
     "hydroxychloroquine": {
       "risk": "high",
       "notes": "Antimalarial / autoimmune",
-      "aliases": ["plaquenil", "hydroxychloroquine sulfate"]
+      "aliases": ["plaquenil", "hydroxychloroquine sulfate", "羟氯喹", "羥氯喹", "硫酸羟氯喹"]
     },
     "sulfasalazine": {
       "risk": "high",
       "notes": "IBD / rheumatoid arthritis drug",
-      "aliases": ["sulphasalazine", "azulfidine", "salazopyrin"]
+      "aliases": ["sulphasalazine", "azulfidine", "salazopyrin", "柳氮磺吡啶", "水杨酸偶氮磺胺吡啶"]
     },
     "furazolidone": {
       "risk": "high",
       "notes": "",
-      "aliases": ["furoxone"]
+      "aliases": ["furoxone", "呋喃唑酮", "痢特灵"]
     },
     "phenazopyridine": {
       "risk": "high",
       "notes": "Urinary analgesic — OTC in US",
-      "aliases": ["pyridium", "azo", "urogesic"]
+      "aliases": ["pyridium", "azo", "urogesic", "非那吡啶"]
     },
     "trimethoprim sulfamethoxazole": {
       "risk": "high",
       "notes": "Common antibiotic combo — avoid in G6PD",
-      "aliases": ["co-trimoxazole", "bactrim", "septra", "tmp-smx", "trimethoprim-sulfamethoxazole"]
+      "aliases": ["co-trimoxazole", "bactrim", "septra", "tmp-smx", "trimethoprim-sulfamethoxazole", "复方磺胺甲噁唑", "复方新诺明", "SMZ-TMP", "百炎净"]
     },
     "sulfamethoxazole": {
       "risk": "high",
       "notes": "Sulfonamide component of Bactrim",
-      "aliases": ["sulphamethoxazole"]
+      "aliases": ["sulphamethoxazole", "磺胺甲噁唑", "新诺明", "磺胺甲基异噁唑"]
     },
     "aspirin": {
       "risk": "high",
       "notes": "Avoid — also listed as O-Acetylsalicylic acid",
-      "aliases": ["o-acetylsalicylic acid", "acetylsalicylic acid", "asa", "anacin", "bufferin", "ecotrin"]
+      "aliases": ["o-acetylsalicylic acid", "acetylsalicylic acid", "asa", "anacin", "bufferin", "ecotrin", "阿司匹林", "乙酰水杨酸", "阿斯匹靈"]
     },
     "mepacrine": {
       "risk": "high",
       "notes": "Antiprotozoal",
-      "aliases": ["quinacrine", "atabrine"]
+      "aliases": ["quinacrine", "atabrine", "米帕林", "喹吖啶"]
     },
     "nalidixic acid": {
       "risk": "high",
       "notes": "Antibiotic",
-      "aliases": ["neggram"]
+      "aliases": ["neggram", "萘啶酸"]
     },
     "ofloxacin": {
       "risk": "high",
       "notes": "Fluoroquinolone antibiotic",
-      "aliases": ["floxin", "ocuflox"]
+      "aliases": ["floxin", "ocuflox", "氧氟沙星", "奥复星"]
     },
     "ciprofloxacin": {
       "risk": "high",
       "notes": "Fluoroquinolone antibiotic",
-      "aliases": ["cipro", "ciproxin"]
+      "aliases": ["cipro", "ciproxin", "环丙沙星", "环丙氟哌酸", "西普乐"]
     },
     "levofloxacin": {
       "risk": "high",
       "notes": "Fluoroquinolone antibiotic",
-      "aliases": ["levaquin"]
+      "aliases": ["levaquin", "左氧氟沙星", "可乐必妥", "利复星"]
     },
     "moxifloxacin": {
       "risk": "high",
       "notes": "Fluoroquinolone antibiotic",
-      "aliases": ["avelox"]
+      "aliases": ["avelox", "莫西沙星", "拜复乐"]
     },
     "chloramphenicol": {
       "risk": "high",
       "notes": "Antibiotic",
-      "aliases": []
+      "aliases": ["氯霉素", "氯黴素"]
     },
     "doxorubicin": {
       "risk": "high",
       "notes": "Chemotherapy",
-      "aliases": ["adriamycin"]
+      "aliases": ["adriamycin", "多柔比星", "阿霉素", "阿黴素"]
     },
     "dabrafenib": {
       "risk": "high",
       "notes": "Cancer drug — BRAF inhibitor; FDA-warned",
-      "aliases": ["tafinlar"]
+      "aliases": ["tafinlar", "达拉非尼"]
     },
     "trametinib": {
       "risk": "high",
       "notes": "Cancer drug — MEK inhibitor; FDA-warned",
-      "aliases": ["mekinist"]
+      "aliases": ["mekinist", "曲美替尼"]
     },
     "flutamide": {
       "risk": "high",
       "notes": "Cancer drug — anti-androgen; FDA-warned",
-      "aliases": ["eulexin"]
+      "aliases": ["eulexin", "氟他胺", "氟硝丁酰胺"]
     },
     "pegloticase": {
       "risk": "high",
       "notes": "Gout biologic — FDA-warned",
-      "aliases": ["krystexxa"]
+      "aliases": ["krystexxa", "聚乙二醇重组尿酸酶"]
     },
     "probenecid": {
       "risk": "high",
       "notes": "Gout / uricosuric",
-      "aliases": ["benemid"]
+      "aliases": ["benemid", "丙磺舒"]
     },
     "glibenclamide": {
       "risk": "high",
       "notes": "Diabetes drug",
-      "aliases": ["glyburide", "diabeta", "micronase", "glynase"]
+      "aliases": ["glyburide", "diabeta", "micronase", "glynase", "格列本脲", "优降糖", "格列苯脲"]
     },
     "glimepiride": {
       "risk": "high",
       "notes": "Diabetes drug",
-      "aliases": ["amaryl"]
+      "aliases": ["amaryl", "格列美脲", "亚莫利"]
     },
     "glipizide": {
       "risk": "high",
       "notes": "Diabetes drug",
-      "aliases": ["glucotrol"]
+      "aliases": ["glucotrol", "格列吡嗪", "美吡达"]
     },
     "tolazamide": {
       "risk": "high",
       "notes": "Diabetes drug",
-      "aliases": ["tolinase"]
+      "aliases": ["tolinase", "甲苯磺丁脲"]
     },
     "tolbutamide": {
       "risk": "high",
       "notes": "Diabetes drug",
-      "aliases": []
+      "aliases": ["甲苯磺丁脲", "D860"]
     },
     "mesalazine": {
       "risk": "high",
       "notes": "IBD drug",
-      "aliases": ["5-aminosalicylic acid", "5-asa", "asacol", "pentasa", "lialda"]
+      "aliases": ["5-aminosalicylic acid", "5-asa", "asacol", "pentasa", "lialda", "美沙拉嗪", "5-氨基水杨酸"]
     },
     "naphthalene": {
       "risk": "high",
       "notes": "Mothballs — #1 household chemical trigger",
-      "aliases": ["naphtalin", "mothballs", "moth crystals"]
+      "aliases": ["naphtalin", "mothballs", "moth crystals", "萘", "卫生球", "防蛀球", "樟腦丸"]
     },
     "phenylhydrazine": {
       "risk": "high",
       "notes": "Industrial chemical",
-      "aliases": []
+      "aliases": ["苯肼"]
     },
     "sodium nitroprusside": {
       "risk": "high",
       "notes": "IV antihypertensive",
-      "aliases": ["nitropress"]
+      "aliases": ["nitropress", "硝普钠", "硝普鈉"]
     },
     "sodium nitrite": {
       "risk": "high",
       "notes": "Cyanide antidote / food preservative in cured meats",
-      "aliases": ["e250"]
+      "aliases": ["e250", "亚硝酸钠", "亞硝酸鈉"]
     },
     "menadione": {
       "risk": "high",
       "notes": "Synthetic Vitamin K3 — avoid",
-      "aliases": ["vitamin k3", "menadione sodium bisulfite"]
+      "aliases": ["vitamin k3", "menadione sodium bisulfite", "甲萘醌", "维生素K3", "維生素K3"]
     },
     "menadiol sodium sulfate": {
       "risk": "high",
       "notes": "Vitamin K4",
-      "aliases": ["vitamin k4"]
+      "aliases": ["vitamin k4", "亚硫酸氢钠甲萘醌"]
     },
     "ibuprofen": {
       "risk": "medium",
       "notes": "NSAID — generally avoid; paracetamol preferred",
-      "aliases": ["advil", "motrin", "nurofen", "brufen"]
+      "aliases": ["advil", "motrin", "nurofen", "brufen", "布洛芬", "异丁苯丙酸", "美林"]
     },
     "paracetamol": {
       "risk": "medium",
       "notes": "Safe at normal doses — avoid high doses or overdose",
-      "aliases": ["acetaminophen", "tylenol", "panadol", "calpol"]
+      "aliases": ["acetaminophen", "tylenol", "panadol", "calpol", "扑热息痛", "对乙酰氨基酚", "醋氨酚", "必理痛", "普拿疼"]
     },
     "quinine": {
       "risk": "medium",
       "notes": "Antimalarial; also in tonic water",
-      "aliases": ["quinine sulfate", "quinamm"]
+      "aliases": ["quinine sulfate", "quinamm", "奎宁", "奎寧", "金鸡纳碱"]
     },
     "quinidine": {
       "risk": "medium",
       "notes": "Antiarrhythmic",
-      "aliases": ["quinidine sulfate"]
+      "aliases": ["quinidine sulfate", "奎尼丁", "硫酸奎尼丁"]
     },
     "isoniazid": {
       "risk": "medium",
       "notes": "TB medication",
-      "aliases": ["inh", "isoniazide", "nydrazid"]
+      "aliases": ["inh", "isoniazide", "nydrazid", "异烟肼", "雷米封", "INH"]
     },
     "colchicine": {
       "risk": "medium",
       "notes": "Gout medication",
-      "aliases": ["colcrys", "mitigare"]
+      "aliases": ["colcrys", "mitigare", "秋水仙碱", "秋水仙素", "秋水仙鹼"]
     },
     "pyrimethamine": {
       "risk": "medium",
       "notes": "Antimalarial / antiparasitic",
-      "aliases": ["daraprim"]
+      "aliases": ["daraprim", "乙胺嘧啶", "息疟定"]
     },
     "vitamin k": {
       "risk": "medium",
       "notes": "Avoid synthetic forms (K3); K1 use with caution",
-      "aliases": ["phytonadione", "phytomenadione"]
+      "aliases": ["phytonadione", "phytomenadione", "维生素K", "維生素K"]
     },
     "levodopa": {
       "risk": "medium",
       "notes": "Parkinson's drug",
-      "aliases": ["l-dopa", "sinemet"]
+      "aliases": ["l-dopa", "sinemet", "左旋多巴", "多巴"]
     },
     "streptomycin": {
       "risk": "medium",
       "notes": "Antibiotic",
-      "aliases": []
+      "aliases": ["链霉素", "鏈黴素"]
     },
     "trimethoprim": {
       "risk": "medium",
       "notes": "Antibiotic — medium risk alone, high risk with sulfamethoxazole",
-      "aliases": []
+      "aliases": ["甲氧苄啶", "TMP", "甲氧苄胺嘧啶"]
     },
     "diphenhydramine": {
       "risk": "low",
       "notes": "Antihistamine — low risk",
-      "aliases": ["benadryl", "diphenhydramine hydrochloride"]
+      "aliases": ["benadryl", "diphenhydramine hydrochloride", "苯海拉明", "苯那君"]
     },
     "benzocaine": {
       "risk": "low",
       "notes": "Topical anesthetic — low risk",
-      "aliases": []
+      "aliases": ["苯佐卡因", "对氨基苯甲酸乙酯"]
     },
     "azathioprine": {
       "risk": "low",
       "notes": "Immunosuppressant — do not combine with other G6PD drugs",
-      "aliases": ["imuran"]
+      "aliases": ["imuran", "硫唑嘌呤", "依木兰"]
     },
     "pregabalin": {
       "risk": "low",
       "notes": "Anticonvulsant / nerve pain — use with caution",
-      "aliases": ["lyrica"]
+      "aliases": ["lyrica", "普瑞巴林", "乐瑞卡"]
     }
   },
   "foods": {
     "fava beans": {
       "risk": "high",
       "notes": "#1 food trigger — absolute avoid",
-      "aliases": ["broad beans", "windsor beans", "horse beans", "vicia faba", "habas", "faba beans", "field beans", "ful medames", "fool medames"]
+      "aliases": ["broad beans", "windsor beans", "horse beans", "vicia faba", "habas", "faba beans", "field beans", "ful medames", "fool medames", "蚕豆", "蠶豆", "胡豆", "罗汉豆", "佛豆"]
     },
     "bitter melon": {
       "risk": "high",
       "notes": "Well-documented trigger",
-      "aliases": ["bitter gourd", "bitter cucumber", "balsam pear", "ampalaya", "karela", "momordica charantia"]
+      "aliases": ["bitter gourd", "bitter cucumber", "balsam pear", "ampalaya", "karela", "momordica charantia", "苦瓜", "涼瓜", "锦荔枝"]
     },
     "tonic water": {
       "risk": "medium",
       "notes": "Contains quinine",
-      "aliases": ["indian tonic water", "schweppes tonic"]
+      "aliases": ["indian tonic water", "schweppes tonic", "汤力水", "通宁水", "奎宁水"]
     },
     "blueberries": {
       "risk": "medium",
       "notes": "Mixed evidence — avoid in infants and severe G6PD",
-      "aliases": []
+      "aliases": ["蓝莓", "藍莓"]
     },
     "fenugreek": {
       "risk": "medium",
       "notes": "Seeds and supplements — isolated cases",
-      "aliases": ["methi", "fenugreek seeds", "fenugreek extract"]
+      "aliases": ["methi", "fenugreek seeds", "fenugreek extract", "葫芦巴", "葫蘆巴", "苦豆"]
     },
     "soybeans": {
       "risk": "medium",
       "notes": "Legume — caution especially for infants",
-      "aliases": ["soy", "soya", "edamame", "soy protein", "soy extract"]
+      "aliases": ["soy", "soya", "edamame", "soy protein", "soy extract", "大豆", "黄豆", "黃豆", "毛豆", "豆腐", "豆浆"]
     },
     "peanuts": {
       "risk": "medium",
       "notes": "Legume — use caution",
-      "aliases": ["groundnuts", "peanut oil", "arachis oil"]
+      "aliases": ["groundnuts", "peanut oil", "arachis oil", "花生", "花生油", "落花生"]
     },
     "chickpeas": {
       "risk": "medium",
       "notes": "Legume — use caution",
-      "aliases": ["garbanzo beans", "gram", "hummus", "falafel", "chana"]
+      "aliases": ["garbanzo beans", "gram", "hummus", "falafel", "chana", "鹰嘴豆", "鷹嘴豆", "雪莲子"]
     },
     "lentils": {
       "risk": "medium",
       "notes": "Legume — use caution",
-      "aliases": ["dal", "dhal", "red lentils", "green lentils"]
+      "aliases": ["dal", "dhal", "red lentils", "green lentils", "小扁豆", "兵豆", "红扁豆"]
     },
     "eggplant": {
       "risk": "medium",
       "notes": "Isolated reports",
-      "aliases": ["aubergine", "garden egg", "brinjal"]
+      "aliases": ["aubergine", "garden egg", "brinjal", "茄子", "矮瓜"]
     },
     "pumpkin": {
       "risk": "medium",
       "notes": "Isolated case reports only",
-      "aliases": ["squash"]
+      "aliases": ["squash", "南瓜", "金瓜"]
     }
   },
   "food_additives": {
     "sulfur dioxide": {
       "risk": "high",
       "notes": "Synthetic sulfite — hemolytic in G6PD",
-      "aliases": ["sulphur dioxide", "e220", "220", "so2"]
+      "aliases": ["sulphur dioxide", "e220", "220", "so2", "二氧化硫", "亚硫酸酐"]
     },
     "sodium sulfite": {
       "risk": "high",
       "notes": "Synthetic sulfite preservative",
-      "aliases": ["e221", "221", "sodium sulphite"]
+      "aliases": ["e221", "221", "sodium sulphite", "亚硫酸钠", "亞硫酸鈉"]
     },
     "sodium bisulfite": {
       "risk": "high",
       "notes": "Synthetic sulfite preservative",
-      "aliases": ["e222", "222", "sodium bisulphite", "sodium hydrogen sulfite"]
+      "aliases": ["e222", "222", "sodium bisulphite", "sodium hydrogen sulfite", "亚硫酸氢钠", "亞硫酸氫鈉"]
     },
     "sodium metabisulfite": {
       "risk": "high",
       "notes": "Synthetic sulfite — in pickled foods, shrimp, wine",
-      "aliases": ["e223", "223", "sodium metabisulphite", "sodium pyrosulfite"]
+      "aliases": ["e223", "223", "sodium metabisulphite", "sodium pyrosulfite", "焦亚硫酸钠", "焦亞硫酸鈉", "偏亚硫酸钠"]
     },
     "potassium metabisulfite": {
       "risk": "high",
       "notes": "Synthetic sulfite — in wine, beer",
-      "aliases": ["e224", "224", "potassium metabisulphite", "potassium pyrosulfite"]
+      "aliases": ["e224", "224", "potassium metabisulphite", "potassium pyrosulfite", "焦亚硫酸钾", "偏重亚硫酸钾"]
     },
     "potassium bisulfite": {
       "risk": "high",
       "notes": "Synthetic sulfite",
-      "aliases": ["e228", "228", "potassium hydrogen sulfite"]
+      "aliases": ["e228", "228", "potassium hydrogen sulfite", "亚硫酸氢钾"]
     },
     "tartrazine": {
       "risk": "high",
       "notes": "Yellow azo dye — artificial coloring",
-      "aliases": ["e102", "102", "fd&c yellow 5", "yellow 5", "ci food yellow 4"]
+      "aliases": ["e102", "102", "fd&c yellow 5", "yellow 5", "ci food yellow 4", "柠檬黄", "檸檬黃", "酒石黄", "食用黄色4号", "食用色素黃4"]
     },
     "sunset yellow": {
       "risk": "high",
       "notes": "Orange azo dye — artificial coloring",
-      "aliases": ["e110", "110", "fd&c yellow 6", "yellow 6", "ci food yellow 3"]
+      "aliases": ["e110", "110", "fd&c yellow 6", "yellow 6", "ci food yellow 3", "日落黄", "日落黃", "橙黄", "食用黄色5号"]
     },
     "allura red": {
       "risk": "high",
       "notes": "Red azo dye — artificial coloring",
-      "aliases": ["e129", "129", "fd&c red 40", "red 40"]
+      "aliases": ["e129", "129", "fd&c red 40", "red 40", "诱惑红", "誘惑紅", "食用红色40号"]
     },
     "indigo carmine": {
       "risk": "high",
       "notes": "Blue artificial coloring",
-      "aliases": ["e132", "132", "fd&c blue 2", "blue 2", "indigotine"]
+      "aliases": ["e132", "132", "fd&c blue 2", "blue 2", "indigotine", "靛蓝", "靛藍", "食用蓝色2号"]
     },
     "brilliant blue": {
       "risk": "high",
       "notes": "Blue artificial coloring",
-      "aliases": ["e133", "133", "fd&c blue 1", "blue 1"]
+      "aliases": ["e133", "133", "fd&c blue 1", "blue 1", "亮蓝", "亮藍", "食用蓝色1号"]
     },
     "toluidine blue": {
       "risk": "high",
       "notes": "Lab dye; also used medically — avoid",
-      "aliases": ["tolonium chloride", "toluidine blue o"]
+      "aliases": ["tolonium chloride", "toluidine blue o", "甲苯胺蓝", "甲苯胺藍"]
     },
     "aniline dyes": {
       "risk": "high",
       "notes": "Fabric and industrial dyes — also in some foods",
-      "aliases": ["aniline", "aniline based dye", "azo dye"]
+      "aliases": ["aniline", "aniline based dye", "azo dye", "苯胺染料", "偶氮染料"]
     },
     "sodium benzoate": {
       "risk": "medium",
       "notes": "Preservative — some concern in G6PD",
-      "aliases": ["e211", "211", "benzoate of soda"]
+      "aliases": ["e211", "211", "benzoate of soda", "苯甲酸钠", "苯甲酸鈉", "安息香酸钠"]
     },
     "benzoic acid": {
       "risk": "medium",
       "notes": "Preservative",
-      "aliases": ["e210", "210"]
+      "aliases": ["e210", "210", "苯甲酸", "安息香酸"]
     },
     "ascorbic acid": {
       "risk": "medium",
       "notes": "High-dose synthetic Vitamin C — avoid megadoses",
-      "aliases": ["vitamin c", "e300", "300", "l-ascorbic acid"]
+      "aliases": ["vitamin c", "e300", "300", "l-ascorbic acid", "抗坏血酸", "維生素C", "维生素C", "VC"]
     }
   },
   "cosmetics": {
     "camphor": {
       "risk": "high",
       "notes": "Oxidative agent — DANGEROUS for infants transdermally; in muscle rubs, cooling gels",
-      "aliases": ["camphor oil", "camphorated oil", "natural camphor", "synthetic camphor"]
+      "aliases": ["camphor oil", "camphorated oil", "natural camphor", "synthetic camphor", "樟脑", "樟腦", "龙脑", "冰片"]
     },
     "menthol": {
       "risk": "high",
       "notes": "Avoid in babies especially — in toothpaste, mouthwash, cooling creams, mints, vapour rubs",
-      "aliases": ["l-menthol", "peppermint menthol", "menthol crystals"]
+      "aliases": ["l-menthol", "peppermint menthol", "menthol crystals", "薄荷醇", "薄荷脑", "薄荷腦", "薄荷"]
     },
     "henna": {
       "risk": "high",
       "notes": "Lawsone compound — hemolytic in neonates; black/red Egyptian henna most dangerous",
-      "aliases": ["lawsone", "black henna", "red henna", "egyptian henna", "mehndi", "henna powder"]
+      "aliases": ["lawsone", "black henna", "red henna", "egyptian henna", "mehndi", "henna powder", "指甲花", "海娜", "散沫花"]
     },
     "eucalyptus oil": {
       "risk": "high",
       "notes": "PMC study: 13.4% increase in hemolytic phenotype",
-      "aliases": ["eucalyptus essential oil", "cineole", "1,8-cineole"]
+      "aliases": ["eucalyptus essential oil", "cineole", "1,8-cineole", "桉树油", "桉樹油", "尤加利油", "桉叶油", "蓝桉油"]
     },
     "salicylic acid": {
       "risk": "medium",
       "notes": "Aspirin derivative — in acne treatments, exfoliants, anti-dandruff shampoos",
-      "aliases": ["2-hydroxybenzoic acid"]
+      "aliases": ["2-hydroxybenzoic acid", "水杨酸", "水楊酸", "柳酸"]
     },
     "propylene glycol": {
       "risk": "medium",
       "notes": "Common excipient in creams and pharmaceuticals",
-      "aliases": ["1,2-propanediol", "e1520", "pg"]
+      "aliases": ["1,2-propanediol", "e1520", "pg", "丙二醇", "1,2-丙二醇"]
     }
   },
   "herbals": {
     "berberine": {
       "risk": "high",
       "notes": "Derived from Huang Lian — caused neonatal kernicterus; banned in Singapore 1978",
-      "aliases": ["berberine hydrochloride", "berberine hcl", "berberine sulfate"]
+      "aliases": ["berberine hydrochloride", "berberine hcl", "berberine sulfate", "小檗碱", "小蘗鹼", "黄连素", "黃連素"]
     },
     "rhizoma coptidis": {
       "risk": "high",
       "notes": "Huang Lian / Huanglian — TCM herb; contains berberine",
-      "aliases": ["huang lian", "huanglian", "coptis chinensis", "coptis", "goldenthread"]
+      "aliases": ["huang lian", "huanglian", "coptis chinensis", "coptis", "goldenthread", "黄连", "黃連", "味连", "雅连"]
     },
     "cortex moutan": {
       "risk": "medium",
       "notes": "Mu Dan Pi — TCM herb; pro-oxidative in vitro",
-      "aliases": ["mu dan pi", "moutan bark", "peony bark"]
+      "aliases": ["mu dan pi", "moutan bark", "peony bark", "牡丹皮", "丹皮"]
     },
     "radix rehmanniae": {
       "risk": "medium",
       "notes": "Di Huang — TCM herb; pro-oxidative in vitro",
-      "aliases": ["di huang", "rehmannia", "chinese foxglove"]
+      "aliases": ["di huang", "rehmannia", "chinese foxglove", "地黄", "地黃", "生地", "熟地"]
     },
     "radix bupleuri": {
       "risk": "medium",
       "notes": "Chai Hu — TCM herb; pro-oxidative in vitro",
-      "aliases": ["chai hu", "bupleurum", "thorowax root"]
+      "aliases": ["chai hu", "bupleurum", "thorowax root", "柴胡", "北柴胡", "南柴胡"]
     },
     "rhizoma polygoni cuspidati": {
       "risk": "medium",
       "notes": "Hu Zhang / Japanese knotweed — pro-oxidative in vitro",
-      "aliases": ["hu zhang", "japanese knotweed", "polygonum cuspidatum", "reynoutria japonica"]
+      "aliases": ["hu zhang", "japanese knotweed", "polygonum cuspidatum", "reynoutria japonica", "虎杖", "酸桶笋"]
     },
     "flos chimonanthi": {
       "risk": "medium",
       "notes": "TCM herb — pro-oxidative in vitro",
-      "aliases": ["wintersweet flower", "chimonanthus"]
+      "aliases": ["wintersweet flower", "chimonanthus", "蜡梅花", "蠟梅花", "腊梅"]
     },
     "lonicera japonica": {
       "risk": "medium",
       "notes": "Honeysuckle — common in TCM; use caution",
-      "aliases": ["jin yin hua", "honeysuckle", "honeysuckle flower extract"]
+      "aliases": ["jin yin hua", "honeysuckle", "honeysuckle flower extract", "金银花", "金銀花", "忍冬", "双花"]
     }
   },
   "chemicals": {
     "naphthalene": {
       "risk": "high",
       "notes": "Mothballs and moth crystals — #1 household trigger",
-      "aliases": ["naphtalin", "white tar", "mothballs", "moth crystals", "moth flakes"]
+      "aliases": ["naphtalin", "white tar", "mothballs", "moth crystals", "moth flakes", "萘", "卫生球", "防蛀球", "樟腦丸", "白球"]
     },
     "beta-naphthol": {
       "risk": "high",
       "notes": "Found in some drain/bathroom cleaners",
-      "aliases": ["2-naphthol", "z-naphthol", "beta naphthol"]
+      "aliases": ["2-naphthol", "z-naphthol", "beta naphthol", "乙萘酚", "2-萘酚"]
     },
     "aniline": {
       "risk": "high",
       "notes": "Industrial dye precursor",
-      "aliases": ["aniline oil", "aminobenzene", "phenylamine"]
+      "aliases": ["aniline oil", "aminobenzene", "phenylamine", "苯胺", "氨基苯"]
     }
   }
 }
